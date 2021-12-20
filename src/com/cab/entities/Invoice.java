@@ -1,7 +1,5 @@
 package com.cab.entities;
 
-import java.util.Objects;
-
 public class Invoice {
 
 	public int rideCount;
